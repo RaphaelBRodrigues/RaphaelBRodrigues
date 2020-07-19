@@ -1,5 +1,5 @@
 <h1 align='center'>
- Opa, Bem vindo ao meu Github
+ Opa, Seja bem vindo ao meu Github
 </h1>
 
 <p align='center'>
@@ -17,16 +17,19 @@
 
 </p>
 
-<hr style="margin-bottom:1em">
+<hr style="margin-bottom:1.5em">
 <div align='center'>
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=PHP&color=blue"  />
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=MySQL&color=blue" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow" />
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=HTML&color=orange" />
+<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=SH&message=Bash&color=orange" />
+<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=MySQL&color=blue" />
+<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=MongoDB&color=brown" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=CSS&color=blue" />
+<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=HTML&color=orange" />
+<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=blue" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Node.JS&color=green" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=ReactNative&color=blue" />
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=MongoDB&color=brown" />
+<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=GIT&color=brown" />
 </div>
 
  <p align='right'><small><i>~não repara na bagunça</i></small></p>
