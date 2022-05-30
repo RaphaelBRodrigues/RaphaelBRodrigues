@@ -19,7 +19,7 @@
 
 <hr style="margin-bottom:1.5em">
 <div align='center'>
- <a href="https://raphaelbrodrigues.github.io">
+ <a href="https://raphaelbr.dev">
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=PHP&color=blue"  />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=SH&message=Bash&color=orange" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=MySQL&color=blue" />
